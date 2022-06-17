@@ -15,6 +15,9 @@ h1 {
   line-height: 1.5;
   font-weight: 900;
 }
+.navbar{
+  padding-bottom: 4.5rem;
+}
 .navbar-brand{
   font-family: "Ubuntu";
   font-size: 2.5rem;
