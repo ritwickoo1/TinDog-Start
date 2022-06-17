@@ -16,10 +16,26 @@ h1 {
   font-weight: 900;
 }
 .navbar{
-  padding-bottom: 4.5rem;
+  padding-bottom: 0 0 4.5rem;
 }
 .navbar-brand{
   font-family: "Ubuntu";
   font-size: 2.5rem;
   font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+/* Download Button */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+/* Title-Image */
+.title-image{
+  width: 60%;
+  transform: rotate(25deg);
 }
