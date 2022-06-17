@@ -55,3 +55,10 @@ h1 {
   padding: 5%;
   text-align: center;
 }
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
