@@ -75,3 +75,13 @@ h1 {
   background-color: #ef8172;
   color: #fff;
 }
+.testimonials-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
