@@ -120,6 +120,11 @@ h1 {
 .cta-button{
   margin: 5% 3% 5% 0;
 }
+/* Footer */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
 @media (max-width: 1028px) {
   #title{
     text-align: center;
