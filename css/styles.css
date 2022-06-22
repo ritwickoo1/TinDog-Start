@@ -9,7 +9,14 @@ h1,h2,h3,h4,h5,h6{
 p{
   color: 8f8f8f;
 }
-
+/* Sections */
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.white-section{
+  background-color: #fff;
+}
 /* Headings */
 .section-heading{
   font-size: 3rem;
@@ -42,14 +49,10 @@ p{
   font-family: "Montserrat-Light";
 }
 /* Title Section */
-#title{
-  background-color: #ff4c68;
-  color: #fff;
-  text-align: left;
-}
 
 #title .container-fluid{
   padding: 3% 15% 7%;
+  text-align: left;
 }
 /* Download Button */
 .download-button{
@@ -68,7 +71,6 @@ p{
   font-weight: 520;
 }
 #features{
-  background-color: #fff;
   position: relative;
 }
 .feature-box{
@@ -89,7 +91,6 @@ p{
 }
 #testimonials{
   background-color: #ef8172;
-  color: #fff;
 }
 .testimonials-image{
   width: 10%;
@@ -119,14 +120,6 @@ p{
 }
 /* CTA-Section */
 
-#cta{
-  background-color: #ff4c68;
-  color: #fff;
-}
-
-.cta-button{
-  margin: 5% 3% 5% 0;
-}
 /* Footer */
 .social-icon{
   margin: 20px 10px;
