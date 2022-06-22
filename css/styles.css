@@ -127,12 +127,7 @@ p{
   color: #fff;
   padding: 7% 15%;
 }
-.cta-text{
-  font-family: 'Montserrat-Black', sans-serif;
-  font-size: 3.5rem;
-  line-height: 1.5;
-  font-weight: 900;
-}
+
 .cta-button{
   margin: 5% 3% 5% 0;
 }
